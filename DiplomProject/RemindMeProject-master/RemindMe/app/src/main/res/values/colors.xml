@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c14030</color>
+    <color name="colorPrimaryDark">#a90004</color>
+    <color name="mainBackground">#e2e2e2</color>
+    <color name="colorWhite">#e2e2e2</color>
+
+    <color name="white">#ffffff</color>
+    <color name="bg_msg_you">#c14030</color>
+    <color name="bg_msg_from">#e5e7eb</color>
+    <color name="msg_border_color">#a1a1a1</color>
+    <color name="bg_btn_join">#0080FF</color>
+    <color name="bg_msg_input">#e8e8e8</color>
+    <color name="text_msg_input">#626262</color>
+    <color name="lblFromName">#777777</color>
+    <color name="title_gray">#5b7f88</color>
+</resources>

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Diplom Project</string>
+    <string name="search_title">Search</string>
+
+    <string name="menu_item_find_me">Search on Map</string>
+    <string name="menu_item_sights">Sights</string>
+    <string name="menu_item_chat">Chat</string>
+    <string name="menu_item_drive">Make Photo(G.Drive)</string>
+
+    <string name="tool_bar_item_find_me">FIND ME</string>
+    <string name="tool_bar_item_sights">SIGHTS</string>
+    <string name="tool_bar_item_chat">CHAT</string>
+    <string name="tool_bar_item_drive">DRIVE</string>
+
+
+
+
+    <string name="view_navigation_open">Open</string>
+    <string name="view_navigation_close">Close</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutFindMe">Find your Location Now!</string>
+    <string name="aboutGoogleDrive">Use Google Drive to Save and Synchronize your Media Files!</string>
+    <string name="aboutChat">Join our Chat to share your impressions with Others!</string>
+    <string name="aboutGoogleDrive2">Media Files!</string>
+
+    <string name="title_activity_map">MapActivity</string>
+
+    <string name="menuitem_map">MapView</string>
+    <string name="menuitem_satellite">SatelliteView</string>
+    <string name="menuitem_hybrid">HybridView</string>
+    <string name="title_activity_google_drive">GoogleDriveActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+    <string name="myName">Alex Iachimov TI - 124</string>
+    <string name="myTheme">Diplom Project</string>
+
+    <string name="enter_name">Enter your name</string>
+    <string name="btn_join">JOIN</string>
+    <string name="btn_send">Send</string>
+    <string name="title_activity_name">NameActivity</string>
+
+    <string name="author_name">By Alex Iachimov</string>
+    <string name="author_url">Diplom Project</string>
+    <string name="title_activity_language">LanguageActivity</string>
+    <string name="enter_chat">Enter Chat?</string>
+    <string name="enter">Enter</string>
+    <string name="lounch_camera">Lounch Camera?</string>
+    <string name="lounch">Lounch</string>
+    <string name="lounch_map">Lounch Map?</string>
+    <string name="lounch_map_button">Lounch</string>
+    <string name="enter_lat_and_lon">Enter Latitude and Longitude of the searching Place.</string>
+
+</resources>

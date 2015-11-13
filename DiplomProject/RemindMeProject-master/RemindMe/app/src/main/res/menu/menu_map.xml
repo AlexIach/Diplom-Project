@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.qoobico.remindme.MapActivity">
+    <item android:id="@+id/mapItem" android:alphabeticShortcut="m" android:title="@string/menuitem_map"></item>
+    <item android:id="@+id/satelliteItem" android:alphabeticShortcut="s" android:title="@string/menuitem_satellite"></item>
+    <item android:id="@+id/hybridItem" android:alphabeticShortcut="s" android:title="@string/menuitem_hybrid"></item>
+    <item android:id="@+id/settings" android:alphabeticShortcut="st" android:title="Settings"></item>
+</menu>

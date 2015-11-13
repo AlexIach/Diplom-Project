@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionFindMeItem"
+        android:orderInCategory="1"
+        android:title="@string/menu_item_find_me"
+        android:icon="@mipmap/ic_map_marker_radius_white_24dp" />
+
+    <item
+        android:id="@+id/actionSightsItem"
+        android:orderInCategory="1"
+        android:title="@string/menu_item_sights"
+        android:icon="@mipmap/ic_castle_grey600_24dp" />
+
+    <item
+        android:id="@+id/actionChatItem"
+        android:orderInCategory="1"
+        android:title="@string/menu_item_chat"
+        android:icon="@mipmap/ic_message_text" />
+
+    <item
+        android:id="@+id/actionDriveItem"
+        android:orderInCategory="1"
+        android:title="@string/menu_item_drive"
+        android:icon="@mipmap/ic_google_drive_grey600_24dp" />
+
+</menu>
