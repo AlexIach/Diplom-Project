@@ -48,4 +48,8 @@
     <string name="lounch">Alerga</string>
     <string name="lounch_map">Lansa Mapa?</string>
     <string name="lounch_map_button">Alerga</string>
+    <string name="add_place">Atracții</string>
+    <string name="search">Cautarea</string>
+    <string name="lounc_place_picker">Alerga Places  Picker</string>
+
 </resources>

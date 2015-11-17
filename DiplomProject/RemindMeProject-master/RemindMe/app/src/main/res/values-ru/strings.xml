@@ -49,4 +49,8 @@
     <string name="lounch_map">Открыть карту?</string>
     <string name="lounch_map_button">Открыть</string>
     <string name="enter_lat_and_lon">Введите широту и долготу места, которое хотите найти.</string>
+    <string name="add_place">Интересные места</string>
+    <string name="search">Поиск</string>
+    <string name="lounc_place_picker">Запустить Place Picker</string>
+
 </resources>

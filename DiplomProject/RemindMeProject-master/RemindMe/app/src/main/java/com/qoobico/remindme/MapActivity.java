@@ -46,6 +46,11 @@ public class MapActivity extends AppCompatActivity {
         locationManager  = (LocationManager)getSystemService(LOCATION_SERVICE);
     }
 
+
+    public void onAddPlace(View v){
+        startActivity(new Intent(getApplicationContext(), PlacePickerActivity.class));
+    }
+
     public void onSearch(View v){
         AlertDialog.Builder builder = new AlertDialog.Builder(cont);
         builder.setTitle(R.string.enter_lat_and_lon);

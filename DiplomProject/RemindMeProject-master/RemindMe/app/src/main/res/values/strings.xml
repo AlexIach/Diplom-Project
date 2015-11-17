@@ -52,5 +52,9 @@
     <string name="lounch_map">Lounch Map?</string>
     <string name="lounch_map_button">Lounch</string>
     <string name="enter_lat_and_lon">Enter Latitude and Longitude of the searching Place.</string>
+    <string name="add_place">Add Place</string>
+    <string name="search">Search</string>
+    <string name="title_activity_place_picker">PlacePickerActivity</string>
+    <string name="lounc_place_picker">Launch Places  Picker</string>
 
 </resources>

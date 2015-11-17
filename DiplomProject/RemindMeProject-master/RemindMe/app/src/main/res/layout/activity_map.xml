@@ -18,7 +18,7 @@
         style="?android:attr/buttonStyleSmall"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Search"
+        android:text="@string/search"
         android:id="@+id/buttonSearch"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
@@ -26,5 +26,18 @@
         android:onClick="onSearch"
         android:shadowColor="@color/colorPrimary"
         android:textColor="@color/colorPrimary"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_place"
+        android:id="@+id/buttonAddPlace"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:shadowColor="@color/colorPrimary"
+        android:textColor="@color/colorPrimary"
+        android:onClick="onAddPlace"
+        />
 
 </RelativeLayout>

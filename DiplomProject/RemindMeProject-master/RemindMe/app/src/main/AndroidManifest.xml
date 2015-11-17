@@ -32,8 +32,10 @@
         </activity>
 
         <meta-data
-            android:name="com.google.android.maps.v2.API_KEY"
+            android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyAcxM7aftltli3ateI7ENskYjdMiVXORqY" />
+
+
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
@@ -53,6 +55,10 @@
         <activity
             android:name=".NameActivity"
             android:label="@string/title_activity_name" >
+        </activity>
+        <activity
+            android:name=".PlacePickerActivity"
+            android:label="@string/title_activity_place_picker" >
         </activity>
     </application>
 
